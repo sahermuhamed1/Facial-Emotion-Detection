@@ -18,6 +18,4 @@
 
 ## To access the streamlit web application script click [HERE](https://github.com/sahermuhamed1/Facial-Emotion-Detection/blob/main/App.py) 
 
-## To access the anime and cartoon dataset from kaggle click [HERE](https://www.kaggle.com/datasets/msambare/fer2013/data)
-
 
