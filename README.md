@@ -5,7 +5,7 @@
 
 ![Dashboard](https://github.com/sahermuhamed1/Facial-Emotion-Detection/blob/main/image.jpg)
 ***
-![Dashboard](https://github.com/sahermuhamed1/Facial-Emotion-Detection/blob/main/Image%202.jpg)
+
 
 ### In this project we used a lot of data science techniques:
 - Image Preprocessing
